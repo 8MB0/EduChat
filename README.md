@@ -90,8 +90,7 @@ You can download the APK file for the application from the link below:
 ---
 
 ## GitHub Repository
-For more details, you can access the source code on GitHub:
+Check out more of my projects on [GitHub](https://github.com/8MB0)
 
-[GitHub Repository](https://github.com/your-repo-link)
 
 ---
