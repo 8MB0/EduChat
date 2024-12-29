@@ -85,7 +85,7 @@ A group chat application that allows users to join or create chat groups, send m
 
 ## APK Download
 You can download the APK file for the application from the link below:
-[Download APK](https://github.com/8MB0/EduChat/releases/download/untagged-2c5609d8af8dac1ca184/app-release.apk)
+[Download APK](https://github.com/8MB0/EduChat/releases/download/v1.0/app-release.apk)
 
 ---
 
