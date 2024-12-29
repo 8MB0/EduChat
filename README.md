@@ -85,7 +85,7 @@ A group chat application that allows users to join or create chat groups, send m
 
 ## APK Download
 You can download the APK file for the application from the link below:
-[Download APK](app-release.apk)
+[Download APK](build/app/outputs/flutter-apk/app-release.apk)
 
 ---
 
